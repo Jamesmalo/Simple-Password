@@ -19,4 +19,4 @@ function getString(str){
     getString(str);
   }
 }
-checkString("asdfghjk")
+checkString("asdfasdf")
